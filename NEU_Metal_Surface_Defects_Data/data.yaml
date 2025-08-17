@@ -1,0 +1,10 @@
+names:
+- crazing
+- inclusions
+- patches
+- pitted_surface
+- rolled-in_scale
+- scratches
+path: NEU Metal Surface Defects Data
+train: NEU Metal Surface Defects Data\train\images
+val: NEU Metal Surface Defects Data\valid\images
